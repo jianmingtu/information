@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eInformation.iml" filepath="$PROJECT_DIR$/eInformation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/einformation-common-models/einformation-common-models.iml" filepath="$PROJECT_DIR$/einformation-common-models/einformation-common-models.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jag-einformation-application/jag-einformation-application.iml" filepath="$PROJECT_DIR$/jag-einformation-application/jag-einformation-application.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+ca\bc\gov\open\einfo\common\CodeTableValueRequest.class
+ca\bc\gov\open\einfo\common\GetCodeTableValuesResponse.class
+ca\bc\gov\open\einfo\models\serializers\InstantDeserializer.class
+ca\bc\gov\open\einfo\models\serializers\InstantSoapConverter.class
+ca\bc\gov\open\einfo\common\CodeTableValue.class
+ca\bc\gov\open\einfo\common\CodeTableValue2.class
+ca\bc\gov\open\einfo\common\ObjectFactory.class
+ca\bc\gov\open\einfo\common\package-info.class
+org\w3\_2001\xmlschema\Adapter1.class
+ca\bc\gov\open\einfo\models\serializers\InstantSerializer.class
