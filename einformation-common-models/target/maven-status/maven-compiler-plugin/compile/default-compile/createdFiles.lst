@@ -1,5 +1,7 @@
 ca\bc\gov\open\einfo\common\CodeTableValueRequest.class
 ca\bc\gov\open\einfo\common\GetCodeTableValuesResponse.class
+ca\bc\gov\open\einfo\common\GetHealthResponse.class
+ca\bc\gov\open\einfo\common\GetHealth.class
 ca\bc\gov\open\einfo\models\serializers\InstantDeserializer.class
 ca\bc\gov\open\einfo\models\serializers\InstantSoapConverter.class
 ca\bc\gov\open\einfo\common\CodeTableValue.class
